@@ -17,8 +17,6 @@ You will need to do this for **each** material on **each** object (I am truly so
 
 >[!info]
 >If Blender does this cursed shit-tier programming thing where it glitches and reduces the FPS of your windows without reducing the FPS of your mouse, press Windows + Ctrl + Shift + B, this resets the Windows graphics subsystem and reinitializes the Desktop Window Manager (DWM) without restarting your computer
->
->If you want to be proactive about it, you can save a few seconds by having Task Manager open (Ctrl + Shift + Escape), on the Process tab with Desktop Windows Manager on the search bar, if the FPS look like a slideshow, kill that process, Windows will shortly restart it anyways and the bug will be gone, this skips the unnecessary Windows graphics subsystem restart
 
 1. Go to the Shading tab at the top and on the sidepanel select Material, select a Material slot to see the Shader Nodes in the associated Material
 2. Create a UV Map node (Shift + A > "Search..." (or start typing without selecting anything)> UV Map)
