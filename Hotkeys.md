@@ -15,4 +15,4 @@
 | Ctrl + -                             | Toggle code line     |
 | Ctrl + Shift + -                     | Toggle code block    |
 | Ctrl + Q                             | Git pull             |
-| Ctrl + A                             | Git commit & sync    |
+| Ctrl + \|                            | Git commit & sync    |

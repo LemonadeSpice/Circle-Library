@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: creators-guild-vr.github.io/Creators-Guild-Library
+  baseUrl: the-circle-vr.github.io/Circle-Library
   ignorePatterns:
     - private
     - templates
