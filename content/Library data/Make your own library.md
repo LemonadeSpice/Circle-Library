@@ -23,6 +23,8 @@ description: Create a library like this one using git, Quartz, GitHub Pages and 
 - [Github Desktop](https://desktop.github.com/download/) 
 - [Obsidian](https://obsidian.md/)
 
+>[!info]
+> You can also just fork this library and edit it, you'll get the exact same setup, make sure to follow steps 4.1 and 4.2, otherwise it won't work
 ## Steps
 1. Go to the [Quartz repository](https://github.com/jackyzha0/quartz) on GitHub and click on "Create a Template" at the top right corner
 	- ![[Pasted image 20260614101526.png]]
