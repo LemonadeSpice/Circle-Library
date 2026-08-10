@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: "Creators Guild Library"
+  pageTitle: "The Circle Library"
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true

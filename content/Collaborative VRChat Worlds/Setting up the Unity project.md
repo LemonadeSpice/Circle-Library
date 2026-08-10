@@ -1,13 +1,25 @@
-For this we will be using the [VRChat Creator Companion](https://vrchat.com/home/download) and [Github Desktop](https://desktop.github.com/download/).
+## Overview
+### Resulting Workflow
+- Update your world in whichever way you want
+- Go to GitHub Desktop and commit and push your changes to GitHub
+- Tell your buddy to use GitHub Desktop to pull your changes to their computer
 
-Github desktop allows you to save iterative versions of your project, as well as share the project source files with other users. It acts as an extremely effective backup as well as collaboration tool.
+### Why use this
+- You both have the same world file updated in real time with a few clicks and lightweight downloads
+- Engage in jolly cooperation
 
-Even if you are not working with other people on your project, please back it up, your files are worth it.
+### Advantages
+- Only changed files are uploaded/downloaded, not the whole project
+- Quick to update
+- You have an online backup accessible by multiple people at all times
+- If the project becomes corrupted, you can revert changes back to a stable version
 
-Please set these two software up ahead of following the steps. Github will require account creation.
+## Prerequisites
+- A [GitHub](https://github.com/) account
+- [Github Desktop](https://desktop.github.com/download/)
+- [VRChat Creator Companion](https://vrchat.com/home/download) 
 
-
-
+## Steps to follow
 1. Create a project in the VRChat Creator Companion.
 	1. Select new project in the top right, then fill out the options.
 	2. Once you click create project, you're all done here.
@@ -73,4 +85,4 @@ This is the same process you should follow after a work day, to save your work o
 
 ## You are now ready to get to work on your project, safe from file loss, have fun!
 
-(Fun fact, this entire wiki is also hosted on git, 
+(Fun fact, this entire wiki is also hosted on git ;) )
