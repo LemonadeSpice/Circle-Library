@@ -19,6 +19,8 @@
 - [Github Desktop](https://desktop.github.com/download/)
 - [VRChat Creator Companion](https://vrchat.com/home/download) 
 
+>[!info]
+>There is also an [[Using the automatic setup|automatic setup script]] you can just run to turn any Unity Project into a GitHub repository
 ## Steps to follow
 1. Create a project in the VRChat Creator Companion.
 	1. Select new project in the top right, then fill out the options.
