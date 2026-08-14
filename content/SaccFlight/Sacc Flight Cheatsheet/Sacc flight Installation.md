@@ -31,4 +31,9 @@ You'll get something like this.
 
 ![[Pasted image 20260623155416.png]]
 
-Most to everything you will need to find will be listed in the "Instructions" file that SaccChan has provided himself. but this guide is more made for bite size consumption, cause i know how you guys 
+Most to everything you will need to find will be listed in the "Instructions" file that SaccChan has provided himself. But the folder we will particular looking at today is this one, the "Prefab" Folder
+
+![[Pasted image 20260813213534.png]]
+
+you'll find all types of default  Sacc Vehicles, often found in Test Pilots. Use this folder to play around with things to get a better understanding
+![[Pasted image 20260813213620.png]]
